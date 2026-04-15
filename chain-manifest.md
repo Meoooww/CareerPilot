@@ -23,6 +23,12 @@
 5. Decide whether to adopt changes
 6. Write evolution log
 
+## Integration Protocol
+
+- External lens invocation follows `lens-handoff.md`
+- Career Pilot remains the controller
+- Lens skills provide structured reports, not final recommendations
+
 ## External Skill Dependencies
 
 | Skill | Role | Source | Ref | Last checked | Required |
